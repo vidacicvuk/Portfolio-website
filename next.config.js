@@ -7,5 +7,5 @@ const NextConfig ={
         path: ""
     },
     basePath: "/Portfolio-website",
-    assetPrefix: "/Portfolio-website"
+    assetPrefix: "/Portfolio-website/"
 };
