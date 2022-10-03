@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 
 const NextConfig ={
-    reactStrictMode: true;
+    reactStrictMode: true,
     images: {
         loader: "akamai",
         path: ""
