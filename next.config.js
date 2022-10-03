@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 
-const NextConfig ={
+module.exports  ={
     reactStrictMode: true,
     images: {
         loader: "akamai",
