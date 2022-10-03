@@ -47,8 +47,6 @@ const [extendNavbar, setExtendNavbar] = useState(false);
       </li>
       <OpenLinksButton onClick={()=>{
         setExtendNavbar((curr)=>!curr);
-        console.log(curr);
-        console.log("click")
       }}>
        {extendNavbar ? <>&#10005;</> : <>&#8801;</> }
       </OpenLinksButton>
