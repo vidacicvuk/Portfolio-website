@@ -9,11 +9,7 @@
 /coverage
 
 # next.js
-/.next/cache/
-/.next/static/
-/.next/server/
-/.next/build-manifest.json
-/.next/react-loadable-manifest.json
+/.next/
 /out/
 
 # production
